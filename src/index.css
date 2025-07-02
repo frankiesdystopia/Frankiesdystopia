@@ -1,5 +1,14 @@
 body {
   margin: 0;
-  background-color: #111;
   font-family: monospace;
+  background-color: #111;
+  color: #ccc;
+}
+.gate {
+  background-color: #1e1e1e;
+  border: 1px solid #444;
+  padding: 2rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  text-align: center;
 }
